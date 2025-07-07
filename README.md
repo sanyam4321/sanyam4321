@@ -117,11 +117,11 @@
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 <a href="https://github.com/sanyam4321/Asynchronous-http-web-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam4321&repo=repo1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam4321&repo=Asynchronous-http-web-server&theme=radical" />
 </a>
 
 <a href="https://github.com/sanyam4321/AI-Powered-Education-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam4321&repo=repo2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyam4321&repo=AI-Powered-Education-Platform&theme=radical" />
 </a>
 
 ------
