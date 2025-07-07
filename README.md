@@ -19,7 +19,7 @@
 
 - 👨‍💻 As a student & aspiring Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Full stack development and GenAI
-- 🌱 I’m diving deeper into GenAI and Web Servers._
+- 🌱 I’m diving deeper into GenAI and Web Servers.
 
 ## 🛠 &nbsp;Tech Stack
 
