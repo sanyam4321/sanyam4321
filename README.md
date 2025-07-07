@@ -45,7 +45,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/static/v1?label=GSAP&message=&color=22BB33&logo=<GSAP-logo-URL>&logoWidth=20&style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-Animation-8AC640?style=for-the-badge)
+
+
 
 #### 🔧 Tools
 
